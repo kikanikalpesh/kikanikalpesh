@@ -16,13 +16,11 @@
 - ⚡ Develop **scalable E-commerce applications** using Laravel & PHP  
 - 🔌 Create **custom themes, plugins & integrations**  
 - 🚀 Optimize performance, SEO & conversion for online stores
-- 
-
-## 🌟 About Me
+- 🌱 Learning more about **microservices & cloud-native development**
 - 🔭 Currently building **scalable web applications** & contributing to **open-source projects**  
-- 🌱 Learning more about **microservices & cloud-native development**  
-- 💬 Ask me about **full stack development, e-commerce solutions, and cloud deployments**  
 - ⚡ Fun fact: I love solving real-world problems with clean and efficient code  
+
+
 
 ---
 
