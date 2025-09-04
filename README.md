@@ -1,17 +1,22 @@
 # 👋 Hi, I'm Kalpesh Kikani
 
-🚀 Full Stack Developer | Crafting modern web applications with performance, scalability, and great user experience in mind.  
+💻 Full Stack Developer | 🚀 Shopify Expert | ⚡ E-commerce Solutions | 🎯 Laravel & PHP Specialist  
 
 ---
 
-## 💻 Tech Stack
-- **Frontend:** React, Next.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express, PHP, Laravel  
-- **Database:** MySQL, MongoDB, PostgreSQL  
-- **Cloud & DevOps:** AWS, Docker, CI/CD, GitHub Actions  
-- **Other:** REST APIs, GraphQL, WordPress, Shopify, Magento  
+## 🛠️ Tech Stack
+- **E-commerce Platforms:** Shopify, WooCommerce, Magento  
+- **Frontend:** HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS  
+- **Backend:** PHP, Laravel, Node.js, Express  
+- **Databases:** MySQL, MongoDB  
+- **Cloud & Tools:** AWS, GitHub Actions, Docker, REST APIs, GraphQL  
 
----
+## 🌟 What I Do
+- 🛍️ Build & customize **Shopify stores** with advanced functionality  
+- ⚡ Develop **scalable E-commerce applications** using Laravel & PHP  
+- 🔌 Create **custom themes, plugins & integrations**  
+- 🚀 Optimize performance, SEO & conversion for online stores
+- 
 
 ## 🌟 About Me
 - 🔭 Currently building **scalable web applications** & contributing to **open-source projects**  
